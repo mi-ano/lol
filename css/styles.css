@@ -1,0 +1,10 @@
+body {background-image: url(picha.jpg);
+    background-repeat: repeat-x;
+}
+h1 {
+    color:purple;
+    text-align: center;
+}
+p {
+    color:blue
+}  
