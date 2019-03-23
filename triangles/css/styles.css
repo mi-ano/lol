@@ -1,0 +1,16 @@
+body {background-image: url(picha.jpg);
+    background-repeat: repeat-x;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 20px;
+}
+h1 {
+    color:purple;
+    text-align: center;
+}
+p {
+    color:turquoise;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration-color: blanchedalmond;
+  text-decoration: underline;
+      
+}  
